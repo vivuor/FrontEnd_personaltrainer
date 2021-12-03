@@ -1,5 +1,4 @@
 import './App.css';
-import CustomerList from './components/Customers';
 import NavTabs from './components/Navi';
 
 
