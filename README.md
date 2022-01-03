@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Front End project for school
+
+This project was made for my front end course. This was the final task. My package.json is full of libraries that I'm not using in it but didn't have time to delete them before
+returning it.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
